@@ -16,14 +16,13 @@
 >
 ## Contract Deployment Address
 >
-    
->
+https://rinkeby.etherscan.io/address/0x7249ad6fca56cf64a9f4821e097c94e42fd8ada2 >
 
 ## Project write-up - UML
 TBD
 
 ## Libraries
-No additional libraries used
+truffle-hdwallet-provider 1.0.17 to deploy contract on Rinkeby network
 
 
 ## Getting Started
