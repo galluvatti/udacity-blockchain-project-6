@@ -16,10 +16,22 @@
 >
 ## Contract Deployment Address
 >
-https://rinkeby.etherscan.io/address/0x7249ad6fca56cf64a9f4821e097c94e42fd8ada2 >
+transaction https://rinkeby.etherscan.io/tx/0x60168f0d65f413f09c394a54e7a2c1986f39a51fa5f0509d8962854fae687f24
+contract https://rinkeby.etherscan.io/address/0x2f7e3ba53d9d7c3106399a4b508a4282b550637d
 
 ## Project write-up - UML
-TBD
+
+### Activity Diagram
+![Activity Diagram](uml/activity.png)
+
+### Sequence Diagram
+![Sequence Diagram](uml/sequence.png)
+
+### State Diagram
+![State Diagram](uml/state.png)
+
+### Class Diagram (Data Model)
+![Class Diagram](uml/class.png)
 
 ## Libraries
 truffle-hdwallet-provider 1.0.17 to deploy contract on Rinkeby network
