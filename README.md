@@ -25,7 +25,7 @@ contract https://rinkeby.etherscan.io/address/0x2f7e3ba53d9d7c3106399a4b508a4282
 ![Activity Diagram](uml/activity.png)
 
 ### Sequence Diagram
-![Sequence Diagram](uml/sequence.png)
+![Sequence Diagram](uml/sequence_new.png)
 
 ### State Diagram
 ![State Diagram](uml/state.png)
